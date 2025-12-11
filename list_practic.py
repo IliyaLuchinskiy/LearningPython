@@ -24,7 +24,7 @@ print(f"   После pop(): удалили {popped}, список: {numbers}")
 print(f"4. Срезы:")
 print(f"   numbers[:3] = {numbers[:3]}")      # первые 3
 print(f"   numbers[3:7] = {numbers[3:7]}")    # с 3 по 6
-print(f"   numbers[-3:] = {numbers[-3:]}")    # последние 3    
+print(f"   numbers[-3:] = {numbers[-3:]}")    # последние 3
 
 # 5. ПОЛЕЗНЫЕ МЕТОДЫ
 print(f"5. Длина списка: {len(numbers)} элементов")
